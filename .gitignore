@@ -1,0 +1,15 @@
+node_modules/
+assets/
+reveal.js/
+
+css/
+examples/
+js/
+plugin/
+test/
+
+demo.html
+
+
+package-lock.json
+pnpm-lock.yaml
